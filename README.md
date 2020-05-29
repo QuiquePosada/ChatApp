@@ -1,9 +1,10 @@
 # ChatAppConcurrency
 A Client - Server Application for the implementation of Concurrency with Java
 
-##Instructions
-In order to run both programs, it is need to download the zip containing both the Server and Client jar. The Server jar has as name Server, however the Client jar is named ConcurrencyFinalProject. 
+## Instructions
+In order to run both programs, it is need to download the zip containing both the Server and Client jar. The Server jar has as name Server, however the Client jar is named ConcurrencyFinalProject. <br>
 <i><strong>Important NOTE:</strong> There is a requirement of having at least version 1.8 of Java Runtime in order to run the program.</i>
+
 Server:
 * In order for the server to run, just open the server jar in a console (running the command java -jar Server.jar) and with that you should see the server waiting for client connections.
 
